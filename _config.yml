@@ -1,0 +1,8 @@
+title: ハルページ
+description: "\"現実は貴方の想像を凌駕する\""
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
